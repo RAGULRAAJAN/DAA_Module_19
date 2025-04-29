@@ -37,7 +37,8 @@ print(reversed_string)
 ```
 
 ## Output:
-![image](https://github.com/user-attachments/assets/8e397f7a-a2ad-48ce-bf24-c5796b501a8d)
+
+![437666908-7bac129d-03e6-4500-8171-c22addc6f7f2](https://github.com/user-attachments/assets/ee874b35-1201-477e-a09b-78ee4a2d33a0)
 
 
 
