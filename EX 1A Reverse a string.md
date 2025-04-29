@@ -11,14 +11,14 @@ To Write a Program to Create a recursive function to reverse a string
 5. Return the final reversed string. 
 
 ## Program:
-```
+```C
 /*
 Program to implement Reverse a String
 Developed by: RAGUL RAAJAN T
 Register Number: 212223100043
 */
 ```
-```
+```C
 
 def reverse_string(s):
     """
